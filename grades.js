@@ -14,8 +14,6 @@ var scores = [82, 71, 95, 55, 98, 69, 72, 78, 84, 64, 58, 87];
 // var of each
 var mixedCrap = ["A","B","C","D","E","F"];
 console.log(" A B C D E F ", mixedCrap.sort())
-	
-	
 
 
 //var mixedCrap = ["r", "m", 33, 9];
